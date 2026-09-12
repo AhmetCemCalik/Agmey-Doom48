@@ -1,4 +1,4 @@
-![Gameplay Screenshot 1]()
+![Gameplay Screenshot 1](https://github.com/user-attachments/assets/00a772c2-61ca-4f99-a510-e69bd3a77d53)
 
 # Overview
 A classic 2048 with a custom UI. Really not much to talk about. Built on M chip ARM64 arch.
